@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/27279535/README.md)
 . 👋 Hi there, I'm **Wang Congrui**  🚀
 
-### 👨‍💻 **Vibe Coder | AI Product Manager Aspirant | English Major**
+### 👨‍💻 **Vibe Coder | AI Product Manager Aspirant **
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&width=450&lines=Prompt+Engineering+Expert;AI+Workflow+Architect;Quant+Strategy+Enthusiast;Building+the+Future+with+AI" alt="Typing SVG" />
