@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27279535/README.md)
-. 👋 Hi there, I'm **Wang Congrui**  🚀
+. 👋 Hi there, I'm **David Wang**  🚀
 
 ### 👨‍💻 **Vibe Coder | AI Product Manager Aspirant **
 
