@@ -54,19 +54,6 @@ I'm a **Vibe Coder** who believes in the power of "Human + AI" synergy. With a b
 
 ---
 
-### 🎯 **Seeking Opportunities**
-I am actively looking for **AI Product Manager / AI Intern** roles in **Beijing**.
-- 💰 **Expected Salary**: 5-10K
-- 🚀 **Availability**: 2026 Grad (English Major)
-- 📧 **Contact**: 1392456222@qq.com
-- 📱 **Phone**: +86 195-9139-5841
-
----
-
-<p align="center">
-  <i>"The best way to predict the future is to build it with AI."</i> <br>
-  <b>Let's connect and build something awesome!</b>
-</p>
 
 <p align="center">
   <a href="mailto:1392456222@qq.com">
