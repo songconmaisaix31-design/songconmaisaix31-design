@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dawei Wang · 王大伟
+# Dawei Wang
 
 ### AI Application Builder · Workflow Architect · Quant Research Explorer
 
