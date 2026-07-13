@@ -1,65 +1,49 @@
-[README.md](https://github.com/user-attachments/files/27279535/README.md)
-. 👋 Hi there, I'm **David Wang**  🚀
+# Dawei Wang / 王大伟
 
-### 👨‍💻 **Vibe Coder | AI Product Manager Aspirant **
+AI application builder focused on reliable workflows, local-first tools, and practical automation.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&width=450&lines=Prompt+Engineering+Expert;AI+Workflow+Architect;Quant+Strategy+Enthusiast;Building+the+Future+with+AI" alt="Typing SVG" />
-</p>
+专注于可靠工作流、本地优先工具与实用自动化的 AI 应用构建者。
 
----
+## Focus / 方向
 
-### 🌟 **About Me**
-I'm a **Vibe Coder** who believes in the power of "Human + AI" synergy. With a background in **English Language**, I bridge the gap between human intent and machine execution through precise **Prompt Engineering**.
+- AI applications and agent-assisted workflows / AI 应用与 Agent 协作工作流
+- Data processing, contracts, and operational safeguards / 数据处理、数据契约与运行安全
+- Quant research with dry-run and testnet-first controls / 以 dry-run 与 testnet 为先的量化研究
+- Automation for knowledge, reporting, and operations / 知识、报告与运营自动化
 
-- 🤖 **Core Focus**: Designing and implementing AI Agent workflows (Dify/Coze).
-- 📈 **Quant Insight**: Leveraging AI for factor research on **WorldQuant Brain**.
-- 🌍 **Localization**: Native-level English context understanding for global AI products.
-- 🛠️ **Philosophy**: Rapid prototyping, iterative feedback, and AI-first development.
+## Tech Stack / 技术栈
 
----
+| Area / 领域 | Verified technologies / 已验证技术 |
+| --- | --- |
+| AI application development / AI 应用开发 | TypeScript, Next.js, React, AI SDK, Prisma, Zod |
+| Backend and data / 后端与数据 | Python, FastAPI, Uvicorn, OpenPyXL, JSON Schema, YAML |
+| UI and quality / 界面与质量 | Tailwind CSS, Vitest, ESLint, structured test fixtures |
+| Automation and delivery / 自动化与交付 | Node.js, PowerShell, Docker Compose, n8n, GitHub Actions |
+| Quant research / 量化研究 | Freqtrade, WSL, Docker, dry-run controls, audit gates |
 
-### 🛠️ **Tech Stack & Toolbox**
+## Selected Work / 代表项目
 
-| **Category** | **Tools & Skills** |
-| :--- | :--- |
-| **LLMs / AI** | ![GPT-4](https://img.shields.io/badge/GPT--5.5-Pro-blue?logo=openai) ![Gemini](https://img.shields.io/badge/Gemini--3.1--Pro-black?logo=google) ![Claude](https://img.shields.io/badge/Claude--Opus-white?logo=anthropic) ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-green) |
-| **Platforms** | ![Dify](https://img.shields.io/badge/Dify-Workflow-blue) ![Coze](https://img.shields.io/badge/Coze-Agent-purple) ![WorldQuant](https://img.shields.io/badge/WorldQuant-Quant-gold) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![English](https://img.shields.io/badge/English-Professional-red) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown) |
-| **Capabilities** | `Structured Prompting` `AI Agent Design` `API Integration` `Data Cleaning` `PRD Writing` |
+- Career knowledge workflows: resume analysis, evidence management, and document export.
 
----
+  职业知识工作流：简历分析、证据管理与文档导出。
+- Finance automation: API contracts, reconciliation rules, and workflow governance.
 
-### 🚀 **Current Projects**
+  财务自动化：API 契约、对账规则与工作流治理。
+- Quant research operations: market-data validation, testnet safety, and reproducible checks.
 
-#### 🏦 **AI-Assisted Quant Strategy Research**
-- **Description**: Developed a workflow using Gemini 3.1 Pro's multi-modal capabilities to parse financial reports and generate Alpha factor code.
-- **Impact**: Accelerated research efficiency and enabled rapid backtesting on WorldQuant Brain.
-- **Tech**: Gemini API, Python, Prompt Engineering.
+  量化研究运营：市场数据校验、测试网安全与可复现检查。
+- Web and app collection: Python, Node.js, and PowerShell orchestration for reporting.
 
-#### 📝 **AI Localization Engine**
-- **Description**: A toolchain for "Human-in-the-loop" refinement of AI-translated technical documentation.
-- **Focus**: Ensuring commercial and cultural nuance for cross-border SaaS products.
+  Web 与 App 采集：用 Python、Node.js 与 PowerShell 编排报告流程。
 
----
+## Working Principles / 工作方式
 
-### 📊 **My GitHub Stats**
+- Build the smallest reliable path, then validate with real checks.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songconmaisaix31-design&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songconmaisaix31-design&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+  先构建最小可靠路径，再用真实检查验证。
+- Keep secrets, runtime data, and generated artifacts out of source control.
 
----
+  将密钥、运行数据与生成物排除在版本控制之外。
+- Prefer clear contracts and reversible changes over hidden automation.
 
-
-<p align="center">
-  <a href="mailto:1392456222@qq.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-- ⚡ Fun fact: ...
--->
+  优先选择清晰契约与可回滚变更，而不是隐蔽自动化。
