@@ -98,6 +98,14 @@ I favor maintainable, verifiable, and reversible systems over complexity for its
 
 ---
 
+## 🔭 Current Focus / 当前关注
+
+- **Reliable AI workflows / 可靠 AI 工作流** — turning recurring knowledge and reporting work into observable, maintainable systems / 将重复的知识与报告工作沉淀为可观察、可维护的系统。
+- **Finance automation / 财务自动化** — strengthening data contracts, reconciliation rules, and operational safeguards / 强化数据契约、对账规则与运行安全边界。
+- **Quant research operations / 量化研究运营** — keeping research reproducible with validation, dry-run, and testnet-first controls / 通过校验、dry-run 与 testnet 优先控制，让研究过程可复现。
+
+---
+
 ## 🧰 Tech Stack / 技术栈
 
 <div align="center">
