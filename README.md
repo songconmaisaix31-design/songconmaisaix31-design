@@ -1,193 +1,131 @@
 <div align="center">
 
-# Dawei Wang
-
-### AI Application Builder · Workflow Architect · Quant Research Explorer
-
-> Build reliable systems, automate repetitive work, and turn ideas into verifiable outcomes.
->
-> 构建可靠系统，自动化重复工作，把想法变成可验证的结果。
-
-<br />
-
-[![AI Applications](https://img.shields.io/badge/Focus-AI%20Applications-7C3AED?style=for-the-badge)](https://github.com/songconmaisaix31-design)
-[![Automation](https://img.shields.io/badge/Focus-Workflow%20Automation-0EA5E9?style=for-the-badge)](https://github.com/songconmaisaix31-design)
-[![Quant Research](https://img.shields.io/badge/Focus-Quant%20Research-10B981?style=for-the-badge)](https://github.com/songconmaisaix31-design)
+<h1>Dawei Wang</h1>
+<h3>AI Application Builder · Workflow Automation · Quant Research Operations</h3>
+<p>
+  <strong>I turn recurring work into observable, maintainable systems.</strong><br>
+  <strong>我把重复工作变成可观察、可维护的系统。</strong>
+</p>
+<p>
+  <a href="https://github.com/songconmaisaix31-design"><img alt="AI Applications" src="https://img.shields.io/badge/AI-Applications-7C3AED?style=for-the-badge"></a>
+  <a href="https://github.com/songconmaisaix31-design"><img alt="Workflow Automation" src="https://img.shields.io/badge/Workflow-Automation-0EA5E9?style=for-the-badge"></a>
+  <a href="https://github.com/songconmaisaix31-design"><img alt="Quant Research" src="https://img.shields.io/badge/Quant-Research-10B981?style=for-the-badge"></a>
+</p>
+<p><code>build → verify → improve</code></p>
 
 </div>
 
 ---
 
-## `> whoami`
+## `> hello`
+
+I build practical AI-assisted products, local-first tools, and reliable automation for knowledge work, finance operations, and reproducible research.
+
+我专注于构建实用的 AI 辅助产品、本地优先工具与可靠自动化，用于知识工作、财务运营和可复现研究。
 
 ```yaml
-role: AI application builder
-location: China
-mission:
-  - Design practical AI-assisted workflows
-  - Build local-first tools and reliable automation
-  - Explore reproducible quant-research operations
-principle: "Make it work. Make it verifiable. Make it maintainable."
+focus:
+  - AI-assisted applications
+  - Workflow and data automation
+  - Reproducible quant-research operations
+working_style:
+  - explicit contracts
+  - small reversible changes
+  - evidence before claims
 ```
-
-I focus on AI applications, workflow automation, and quant-research infrastructure.
-
-我专注于 AI 应用、自动化工作流与量化研究基础设施。
-
-I favor maintainable, verifiable, and reversible systems over complexity for its own sake.
-
-不追求看起来复杂的系统，而是优先交付可维护、可验证、可回滚的结果。
 
 ---
 
-## ⚡ What I Build / 我在构建什么
+## Current Focus / 当前关注
+
+| Direction | What I am improving | 中文说明 |
+| --- | --- | --- |
+| **Reliable AI workflows** | Turning recurring knowledge and reporting work into observable systems | 将重复的知识与报告工作沉淀为可观察的系统 |
+| **Finance automation** | Strengthening data contracts, reconciliation rules, and operational safeguards | 强化数据契约、对账规则与运行安全边界 |
+| **Quant research operations** | Keeping research reproducible with validation, dry-run, and testnet-first controls | 通过校验、dry-run 与 testnet 优先控制，让研究过程可复现 |
+
+---
+
+## Systems I Build / 我构建的系统
 
 <table>
 <tr>
-<td width="50%">
-
-### 🤖 AI Applications
-
-- Agent-assisted workflows
-- Structured prompts and data contracts
-- Local-first productivity tools
-- Knowledge and document automation
-
+<td width="50%" valign="top">
+<h3><code>01</code> Career Knowledge Workflows</h3>
+<p>
+  Connect resumes, evidence, structured knowledge, and job requirements into actionable workflows.<br><br>
+  将简历、证据、结构化知识与岗位要求连接成可执行的职业工作流。
+</p>
 </td>
-<td width="50%">
-
-### 📊 Data & Quant Research
-
-- Market-data validation
-- Reproducible research workflows
-- Dry-run and testnet-first controls
-- Audit gates and operational checks
-
+<td width="50%" valign="top">
+<h3><code>02</code> Finance &amp; Data Automation</h3>
+<p>
+  Build governed pipelines for data validation, reconciliation, reporting, and exception handling.<br><br>
+  为数据校验、对账、报告与异常处理构建可治理的自动化管道。
+</p>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🔧 Automation Engineering
-
-- Reporting pipelines
-- API integration and reconciliation
-- Python / Node.js / PowerShell orchestration
-- GitHub-based delivery workflows
-
+<td width="50%" valign="top">
+<h3><code>03</code> Quant Research Operations</h3>
+<p>
+  Create safer research loops with reproducible checks, dry-run controls, and audit gates.<br><br>
+  通过可复现检查、dry-run 控制和审计门禁，构建更安全的研究闭环。
+</p>
 </td>
-<td width="50%">
-
-### 🛡️ Reliability by Default
-
-- Secrets stay out of source control
-- Clear interfaces over hidden coupling
-- Small, reversible changes
-- Real checks before “done”
-
+<td width="50%" valign="top">
+<h3><code>04</code> Collection &amp; Reporting</h3>
+<p>
+  Orchestrate collection, transformation, and reporting workflows across local tools and services.<br><br>
+  跨本地工具与服务编排采集、转换和报告工作流。
+</p>
 </td>
 </tr>
 </table>
 
-| 方向 | Focus |
-| --- | --- |
-| AI 应用 | Agent 协作工作流、结构化提示词、数据契约、本地优先工具 |
-| 数据与量化 | 市场数据校验、可复现研究、dry-run、testnet 与审计门禁 |
-| 自动化工程 | 报告管道、API 集成、对账规则、跨工具编排 |
-| 可靠性 | 密钥隔离、明确接口、可回滚变更、真实验证 |
-
 ---
 
-## 🔭 Current Focus / 当前关注
-
-- **Reliable AI workflows / 可靠 AI 工作流** — turning recurring knowledge and reporting work into observable, maintainable systems / 将重复的知识与报告工作沉淀为可观察、可维护的系统。
-- **Finance automation / 财务自动化** — strengthening data contracts, reconciliation rules, and operational safeguards / 强化数据契约、对账规则与运行安全边界。
-- **Quant research operations / 量化研究运营** — keeping research reproducible with validation, dry-run, and testnet-first controls / 通过校验、dry-run 与 testnet 优先控制，让研究过程可复现。
-
----
-
-## 🧰 Tech Stack / 技术栈
+## Toolkit / 技术栈
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white">
+<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=white">
 
 </div>
 
 ```text
-Frontend   → TypeScript · Next.js · React · Tailwind CSS
-Backend    → Python · FastAPI · Uvicorn · Zod · Prisma
-Data       → OpenPyXL · JSON Schema · YAML · structured test fixtures
-Automation → Node.js · PowerShell · n8n · GitHub Actions
-Quant      → Freqtrade · Docker · WSL · dry-run · audit gates
-Quality    → Vitest · ESLint · reproducible validation
+Product      TypeScript · Next.js · React
+Services     Python · FastAPI · data contracts
+Operations   Docker · WSL · PowerShell · GitHub Actions
+Research     validation · dry-run · testnet · audit gates
 ```
 
 ---
 
-## 🚀 Selected Work / 代表方向
+## Engineering Principles / 工程原则
 
-### `01` Career Knowledge Workflows
-
-Turn resumes, evidence, and structured knowledge into actionable career workflows.
-
-将简历、证据与结构化知识整合为可执行的职业工作流。
-
-### `02` Finance Automation
-
-Build reconciliation rules, API contracts, and governed workflows for finance operations.
-
-为财务运营构建对账规则、API 契约与可治理的自动化流程。
-
-### `03` Quant Research Operations
-
-Create safer research loops with data validation, testnet controls, and reproducible checks.
-
-通过数据校验、测试网控制与可复现检查，构建更可靠的量化研究闭环。
-
-### `04` Web & App Collection
-
-Orchestrate collection and reporting pipelines with Python, Node.js, and PowerShell.
-
-使用 Python、Node.js 与 PowerShell 编排采集与报告流程。
-
----
-
-## 🧭 Working Principles / 工作方式
-
-```text
-01. Start small, but build for reliability.
-02. Prefer explicit contracts over implicit assumptions.
-03. Keep secrets, runtime data, and generated artifacts out of Git.
-04. Validate with real checks before declaring success.
-05. Automate repeated work — but keep automation observable and reversible.
-```
-
-> **中文版本**
->
-> 1. 从最小可行路径开始，但可靠性不能妥协。
-> 2. 优先清晰的契约，而不是隐含假设。
-> 3. 密钥、运行数据和生成物不进入 Git。
-> 4. 完成之前必须经过真实验证。
-> 5. 重复的工作应该自动化，但自动化必须可观察、可回滚。
+- **Evidence before claims.** Validate with real checks before declaring success.<br>
+  **证据先于结论。** 在宣布完成前，用真实检查验证结果。
+- **Explicit over implicit.** Prefer clear contracts and boundaries over hidden assumptions.<br>
+  **显式优于隐式。** 用清晰的契约与边界替代隐藏假设。
+- **Local-first and reversible.** Keep sensitive data local and changes easy to roll back.<br>
+  **本地优先、变更可回滚。** 敏感数据留在本地，让每次变更都容易撤销。
+- **Automate with visibility.** Repeated work should be automated without becoming a black box.<br>
+  **自动化必须可观察。** 重复工作应该自动化，但不能变成黑盒。
 
 ---
 
 <div align="center">
 
-### `Building useful things at the intersection of AI, automation, and systems.`
-
-**在 AI、自动化与系统工程的交叉点，构建真正有用的东西。**
-
-[![GitHub](https://img.shields.io/badge/GitHub-songconmaisaix31--design-181717?style=for-the-badge&logo=github)](https://github.com/songconmaisaix31-design)
+<h3>Building useful things where AI meets real operations.</h3>
+<p><strong>在 AI 与真实业务交汇的地方，构建真正有用的系统。</strong></p>
+<a href="https://github.com/songconmaisaix31-design"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-songconmaisaix31--design-181717?style=for-the-badge&amp;logo=github"></a>
 
 </div>
