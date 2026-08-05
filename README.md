@@ -1,95 +1,232 @@
+::: {align="center"}
+
 Dav1d Wang
 
 AI Native Full Stack Developer
 
-I build intelligent systems, AI agents, and products for the nextgeneration of software.
+Building agentic systems and AI-native software.
 
-Currently Building
+<br/>{=html}
 
-🤖 Agent Systems
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+AI+Agents;Exploring+Human-AI+Collaboration;Turning+Ideas+into+Products;Learning+by+Shipping" />{=html}:::
 
-Exploring autonomous workflows, multi-agent collaboration, andLLM-powered applications.
+About
 
-🌐 AI Full Stack Applications
+I build software for the AI era.
 
-Building complete AI products from idea to deployment:
+My focus is designing systems where humans and intelligent agentscollaborate.
 
-Frontend
-    ↓
-Backend
-    ↓
+Currently exploring:
+
+Agent architectures
+
+AI-native applications
+
+Developer productivity tools
+
+Full-stack product engineering
+
+Current Mission
+
+Human Intent
+      |
+      v
+     Agent
+      |
+      v
+ Tools + Memory + Knowledge
+      |
+      v
+ Intelligent Actions
+
+Building towards a future where software is not only written, butdesigned, operated and improved with AI.
+
+Projects
+
+Private projects are under active development.
+
+Agent Systems
+
+Building intelligent workflows with:
+
+Agent orchestration
+
+Tool calling
+
+Memory systems
+
+Multi-agent collaboration
+
+Knowledge Systems
+
+Exploring AI-powered personal knowledge infrastructure.
+
+Focus:
+
+Retrieval systems
+
+Personal AI assistants
+
+Knowledge workflows
+
+AI Applications
+
+Building end-to-end products:
+
+Idea
+ ↓
+Prototype
+ ↓
 AI Pipeline
-    ↓
-Data / Knowledge
-    ↓
-Production
+ ↓
+Product
+ ↓
+Iteration
 
-🚀 Independent Builder
+Tech Stack
 
-Learning through building, experimenting, and shipping.
+::: {align="center"}
 
-Selected Projects
+<table>
 
-Most projects are currently private while being actively developed.
+<tr>
 
-🤖 Agent Platform
+<td align="center" width="160">
 
-Multi-agent system for intelligent workflows.
+<img src="https://skillicons.dev/icons?i=python" />{=html}
 
-Focus: - Agent orchestration - Tool usage - AI automation
+<br/>{=html} Python
 
-🧠 Career Wiki Agent
+</td>
 
-AI-powered personal knowledge system.
+<td align="center" width="160">
 
-Focus: - Knowledge management - Retrieval systems - Personalproductivity
+<img src="https://skillicons.dev/icons?i=typescript" />{=html}
 
-🎬 Video Intelligence
+<br/>{=html} TypeScript
 
-AI system for understanding and transforming video content.
+</td>
 
-Focus: - Video analysis - Multimodal AI - Content intelligence
+<td align="center" width="160">
 
-🧩 Developer Tools
+<img src="https://skillicons.dev/icons?i=javascript" />{=html}
 
-Experiments around AI-assisted software development.
+<br/>{=html} JavaScript
 
-Focus: - Developer productivity - Automation - AI workflows
+</td>
 
-Tools I Use
+</tr>
 
-Languages
+<tr>
 
-Python · TypeScript · JavaScript
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=react" />{=html}
+
+<br/>{=html} React
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs" />{=html}
+
+<br/>{=html} Next.js
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs" />{=html}
+
+<br/>{=html} Node.js
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=docker" />{=html}
+
+<br/>{=html} Docker
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" />{=html}
+
+<br/>{=html} Linux
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" />{=html}
+
+<br/>{=html} Git
+
+</td>
+
+</tr>
+
+</table>
+
+:::
 
 AI Engineering
 
-LLM · RAG · AI Agents · LangGraph · OpenAI API
+LLM
+RAG
+AI Agents
+LangGraph
+MCP
+OpenAI API
+Workflow Automation
 
-Backend
+Engineering Philosophy
 
-FastAPI · Node.js
+Build systems, not demos.
 
-Frontend
+The future developer is not only a programmer.
 
-React · Next.js · Tailwind CSS
+They are:
 
-Infrastructure
+Designer
+    +
+Engineer
+    +
+AI Collaborator
 
-Docker · Git · Linux · Vercel · Cloudflare
+My workflow:
 
-Philosophy
+Explore
+  ↓
+Build
+  ↓
+Test
+  ↓
+Ship
+  ↓
+Improve
 
-The future belongs to builders who can collaborate with intelligentmachines.
+Roadmap
 
-Build.
+2026
 
-Experiment.
+AI Agents
+    |
+Full Stack AI
+    |
+Open Source
+    |
+Independent Products
 
-Ship.
+::: {align="center"}<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dav1dWang&theme=github-dark&hide_border=true" />{=html}
 
-Repeat.
+<br/>{=html}
 
-Contact
-
-Coming soon.
+Building the future with AI.:::
