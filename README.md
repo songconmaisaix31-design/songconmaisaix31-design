@@ -1,145 +1,79 @@
-::: {align="center"}
-
-Dav1d Wang
-
-AI Native Full Stack Developer
-
-Building agentic systems and AI-native software.
+:: {align="center"}<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=DAV1D.WANG&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />{=html}
 
 <br/>{=html}
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+AI+Agents;Exploring+Human-AI+Collaboration;Turning+Ideas+into+Products;Learning+by+Shipping" />{=html}:::
+AI SYSTEMS LAB
 
-About
+AI Native Full Stack Developer
 
-I build software for the AI era.
+Building agentic systems, AI-native applications and intelligent tools.
 
-My focus is designing systems where humans and intelligent agentscollaborate.
+<br/>{=html}
 
-Currently exploring:
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Building+AI+Agents;Designing+Intelligent+Systems;Exploring+Human-AI+Collaboration;From+Ideas+to+Products" />{=html}:::
 
-Agent architectures
+◇ Vision
 
-AI-native applications
+Software is evolving.
 
-Developer productivity tools
+From:
 
-Full-stack product engineering
+Human writes code
+        ↓
+AI assists development
+        ↓
+AI agents build, operate and improve systems
 
-Current Mission
+I am exploring how developers can build in this new era.
 
-Human Intent
-      |
-      v
-     Agent
-      |
-      v
- Tools + Memory + Knowledge
-      |
-      v
- Intelligent Actions
+My mission:
 
-Building towards a future where software is not only written, butdesigned, operated and improved with AI.
+Build intelligent systems that amplify human creativity.
 
-Projects
+◇ Current Focus
 
-Private projects are under active development.
+::: {align="center"}Area              Exploring
 
-Agent Systems
+Agent Systems     Planning · Tools · Memory · CollaborationAI Applications   LLM Apps · RAG · Multimodal AIDeveloper Tools   AI-assisted Engineering WorkflowsProducts          Prototype → Validate → Ship:::
 
-Building intelligent workflows with:
-
-Agent orchestration
-
-Tool calling
-
-Memory systems
-
-Multi-agent collaboration
-
-Knowledge Systems
-
-Exploring AI-powered personal knowledge infrastructure.
-
-Focus:
-
-Retrieval systems
-
-Personal AI assistants
-
-Knowledge workflows
-
-AI Applications
-
-Building end-to-end products:
-
-Idea
- ↓
-Prototype
- ↓
-AI Pipeline
- ↓
-Product
- ↓
-Iteration
-
-Tech Stack
-
-::: {align="center"}
+◇ Selected Experiments
 
 <table>
 
 <tr>
 
-<td align="center" width="160">
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=python" />{=html}
+Agent Runtime
 
-<br/>{=html} Python
+Exploring architectures for autonomous AI workflows.
 
-</td>
+Agents
+Tools
+Memory
+Planning
+Execution
 
-<td align="center" width="160">
+Status:
 
-<img src="https://skillicons.dev/icons?i=typescript" />{=html}
-
-<br/>{=html} TypeScript
-
-</td>
-
-<td align="center" width="160">
-
-<img src="https://skillicons.dev/icons?i=javascript" />{=html}
-
-<br/>{=html} JavaScript
+BUILDING
 
 </td>
 
-</tr>
+<td width="50%">
 
-<tr>
+Knowledge Infrastructure
 
-<td align="center">
+Personal AI knowledge systems.
 
-<img src="https://skillicons.dev/icons?i=react" />{=html}
+Retrieval
+Context
+Memory
+Reasoning
 
-<br/>{=html} React
+Status:
 
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs" />{=html}
-
-<br/>{=html} Next.js
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs" />{=html}
-
-<br/>{=html} Node.js
+RESEARCH
 
 </td>
 
@@ -147,27 +81,37 @@ Tech Stack
 
 <tr>
 
-<td align="center">
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=docker" />{=html}
+Multimodal AI
 
-<br/>{=html} Docker
+Systems that understand:
+
+Text
+Image
+Video
+Data
+
+Status:
+
+EXPERIMENT
 
 </td>
 
-<td align="center">
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=linux" />{=html}
+AI Developer Tools
 
-<br/>{=html} Linux
+Improving software creation with AI.
 
-</td>
+Automation
+Agents
+Workflows
+Productivity
 
-<td align="center">
+Status:
 
-<img src="https://skillicons.dev/icons?i=git" />{=html}
-
-<br/>{=html} Git
+BUILDING
 
 </td>
 
@@ -175,58 +119,70 @@ Tech Stack
 
 </table>
 
-:::
+◇ Technology
+
+::: {align="center"}<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,linux,git,github,vercel,cloudflare&perline=6" />{=html}:::
 
 AI Engineering
 
 LLM
-RAG
-AI Agents
-LangGraph
-MCP
-OpenAI API
-Workflow Automation
+├── Agent Architecture
+├── RAG
+├── LangGraph
+├── MCP
+├── Tool Calling
+└── Multimodal AI
 
-Engineering Philosophy
+◇ Build Philosophy
 
-Build systems, not demos.
+::: {align="center"}Research
 
-The future developer is not only a programmer.
+           ↓
 
-They are:
+       Prototype
 
-Designer
-    +
-Engineer
-    +
-AI Collaborator
+           ↓
 
-My workflow:
+        Build
 
-Explore
-  ↓
-Build
-  ↓
-Test
-  ↓
-Ship
-  ↓
-Improve
+           ↓
 
-Roadmap
+         Ship
+
+           ↓
+
+       Iterate
+
+:::
+
+I believe future engineers will combine:
+
+Engineering
++
+Product Thinking
++
+Artificial Intelligence
+
+◇ Roadmap
 
 2026
 
 AI Agents
     |
-Full Stack AI
+AI Full Stack
     |
 Open Source
     |
 Independent Products
+    |
+AI Company
 
-::: {align="center"}<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dav1dWang&theme=github-dark&hide_border=true" />{=html}
+◇ GitHub Activity
 
-<br/>{=html}
+::: {align="center"}<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dav1dWang&theme=github-dark&hide_border=true" />{=html}:::
 
-Building the future with AI.:::
+◇ Connect
+
+Building in public soon.
+
+::: {align="center"}<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer" />{=html}:::
