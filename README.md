@@ -1,56 +1,86 @@
-::: {align="center"}
-
-DAV1D.WANG
-
-AI Native Full Stack Developer
-
-Building agent systems, AI applications, and developer tools.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=DAV1D.WANG&fontSize=70&fontAlignY=50&animation=fadeIn&color=gradient" />{=html}
 
 <br/>{=html}
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=AI+Agent+Builder;Full+Stack+AI+Engineer;Building+in+Public;Turning+Ideas+into+Systems" />{=html}:::
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&pause=600&center=true&vCenter=true&width=750&lines=AI+Native+Full+Stack+Developer;Building+Agentic+Systems;Exploring+AI-Native+Software;Research+%7C+Build+%7C+Ship" />{=html}
 
-About
+<br/>{=html}
 
-I am an AI Native Full Stack Developer exploring how software is createdin the age of intelligent agents.
+<img src="https://komarev.com/ghpvc/?username=Dav1dWang&style=flat-square" />{=html}:::
 
-My focus:
+::: {align="center"}
 
-AI Agents
-    +
-Full Stack Engineering
-    +
-Product Building
+AI SYSTEMS LAB
 
-I believe the next generation of software will be built by developerswho can combine engineering, AI, and product thinking.
+A personal laboratory for exploring intelligent software systems.:::
 
-Currently Building
+✦ Mission
+
+The way software is built is changing.
+
+From:
+
+Human
+  |
+  v
+Code
+  |
+  v
+Application
+
+To:
+
+Human Intent
+
+      ↓
+
+AI Agent
+
+      ↓
+
+Tools + Memory + Knowledge
+
+      ↓
+
+Intelligent Systems
+
+I explore how developers can build with AI, not just use AI.
+
+✦ Active Research
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
 Agent Systems
 
-Building intelligent workflows with:
+<br/>{=html}
+
+<img src="https://skillicons.dev/icons?i=python" width="45"/>{=html}
+
+<br/>{=html}<br/>{=html}
 
 Planning
 
-Tool calling
+Tools
 
 Memory
 
-Multi-agent collaboration
+Reasoning
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
 AI Applications
 
-Creating complete AI products:
+<br/>{=html}
+
+<img src="https://skillicons.dev/icons?i=react" width="45"/>{=html}
+
+<br/>{=html}<br/>{=html}
 
 Frontend
 
@@ -58,9 +88,27 @@ Backend
 
 Models
 
-Data
-
 Deployment
+
+</td>
+
+<td width="33%" align="center">
+
+Developer Tools
+
+<br/>{=html}
+
+<img src="https://skillicons.dev/icons?i=github" width="45"/>{=html}
+
+<br/>{=html}<br/>{=html}
+
+Automation
+
+Workflow
+
+AI Coding
+
+Productivity
 
 </td>
 
@@ -68,106 +116,145 @@ Deployment
 
 </table>
 
-Selected Work
+✦ Building
 
-Agent Platform
+::: {align="center"}
 
-AI agent infrastructure experiments.
+🤖 Agent Platform
 
-Runtime
+User
+ |
+Agent
+ |
 Tools
+ |
 Memory
-Reasoning
-Execution
-
-Status:
+ |
+Action
 
 BUILDING
 
-Knowledge System
-
-Personal AI knowledge infrastructure.
+🧠 Knowledge Intelligence
 
 Capture
+  ↓
 Retrieve
-Understand
+  ↓
+Reason
+  ↓
 Apply
-
-Status:
 
 RESEARCH
 
-Multimodal Intelligence
-
-Exploring AI systems across:
+🎬 Multimodal AI
 
 Text
+ +
 Image
+ +
 Video
+ +
 Data
 
-Status:
+EXPERIMENT:::
 
-EXPERIMENT
+✦ Technology Universe
 
-Technology
+::: {align="center"}<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,linux,git,github,vercel,cloudflare&perline=6" />{=html}:::
 
-::: {align="center"}<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,linux,git,github,vercel&perline=6"/>{=html}:::
+<br/>{=html}
 
-AI Stack
+<table>
 
-LLM Applications
-├── Agents
-├── RAG
-├── LangGraph
-├── MCP
-├── Tool Calling
-└── Multimodal AI
+<tr>
 
-Development Loop
+<td>
 
-        Research
+AI
+
+LLM
+RAG
+Agents
+LangGraph
+MCP
+Tool Calling
+Multimodal AI
+
+</td>
+
+<td>
+
+Engineering
+
+FastAPI
+Node.js
+React
+Next.js
+Docker
+Cloud
+
+</td>
+
+</tr>
+
+</table>
+
+✦ Builder Loop
+
+::: {align="center"}◉ Explore
 
            ↓
 
-       Prototype
+        ◉ Design
 
            ↓
 
-         Build
+        ◉ Build
 
            ↓
 
-          Ship
+        ◉ Test
 
            ↓
 
-        Improve
+        ◉ Ship
 
-Philosophy
+           ↓
 
-Build systems, not demos.
+        ◉ Repeat
 
-The role of developers is changing.
+:::
 
-From:
+✦ GitHub Activity
 
-Writing code
+::: {align="center"}<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dav1dWang&theme=react-dark&hide_border=true&area=true" />{=html}:::
 
-to:
+✦ Contribution Animation
 
-Designing intelligent systems
+::: {align="center"}<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />{=html}:::
 
-Roadmap
+✦ Roadmap
 
-2026
+::: {align="center"}2026
 
-AI Agents
-    |
-AI Full Stack
-    |
-Open Source
-    |
-Independent Products
+     AI Agents
+          |
+          v
+     AI Full Stack
+          |
+          v
+     Open Source
+          |
+          v
+ Independent Products
+          |
+          v
+     AI Company
 
-::: {align="center"}Building the future with AI.:::
+:::
+
+::: {align="center"}<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&width=500&lines=Build+Systems;Create+Products;Explore+The+Future" />{=html}
+
+<br/>{=html}
+
+BUILD THE FUTURE WITH AI
