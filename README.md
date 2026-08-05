@@ -1,34 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=DAV1D.WANG&fontSize=70&fontAlignY=50&animation=fadeIn&color=gradient" />{=html}
-
-<br/>{=html}
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&pause=600&center=true&vCenter=true&width=750&lines=AI+Native+Full+Stack+Developer;Building+Agentic+Systems;Exploring+AI-Native+Software;Research+%7C+Build+%7C+Ship" />{=html}
-
-<br/>{=html}
-
-<img src="https://komarev.com/ghpvc/?username=Dav1dWang&style=flat-square" />{=html}:::
-
-::: {align="center"}
+◢ DAV1D.WANG ◣
 
 AI SYSTEMS LAB
 
-A personal laboratory for exploring intelligent software systems.:::
+AI Native Full Stack Developer · Agent Builder · Product Explorer
 
-✦ Mission
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1800&pause=500&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+AI+Agents;Designing+Intelligent+Systems;Creating+AI-Native+Products;Research+%7C+Build+%7C+Ship+%7C+Repeat" />{=html}
 
-The way software is built is changing.
+<br/>{=html}
 
-From:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=120&section=header" />{=html}:::
+
+⚡ SYSTEM STATUS
+
+┌─────────────────────────────────┐
+│  AI SYSTEMS LAB                 │
+├─────────────────────────────────┤
+│  Agent Runtime       ONLINE      │
+│  LLM Research        ACTIVE      │
+│  Product Building    RUNNING     │
+│  Open Source         PLANNED     │
+└─────────────────────────────────┘
+
+🧬 Vision
+
+The future of software is moving from:
 
 Human
-  |
-  v
+  ↓
 Code
-  |
-  v
+  ↓
 Application
 
-To:
+towards:
 
 Human Intent
 
@@ -42,218 +45,146 @@ Tools + Memory + Knowledge
 
       ↓
 
-Intelligent Systems
+Autonomous Systems
 
-I explore how developers can build with AI, not just use AI.
+I explore how developers can build software with intelligentcollaborators.
 
-✦ Active Research
+🚀 Research Domains
 
-<table>
+::: {align="center"}🤖 Agent Engineering   🧠 Intelligence   🛠 Developer Tools
 
-<tr>
+Agent Runtime          RAG               AI CodingTool Calling           Memory Systems    AutomationMulti-Agent            Knowledge Graph   Workflow DesignPlanning               Multimodal AI     Productivity:::
 
-<td width="33%" align="center">
+🏗 Selected Experiments
 
-Agent Systems
-
-<br/>{=html}
-
-<img src="https://skillicons.dev/icons?i=python" width="45"/>{=html}
-
-<br/>{=html}<br/>{=html}
-
-Planning
-
-Tools
-
-Memory
-
-Reasoning
-
-</td>
-
-<td width="33%" align="center">
-
-AI Applications
-
-<br/>{=html}
-
-<img src="https://skillicons.dev/icons?i=react" width="45"/>{=html}
-
-<br/>{=html}<br/>{=html}
-
-Frontend
-
-Backend
-
-Models
-
-Deployment
-
-</td>
-
-<td width="33%" align="center">
-
-Developer Tools
-
-<br/>{=html}
-
-<img src="https://skillicons.dev/icons?i=github" width="45"/>{=html}
-
-<br/>{=html}<br/>{=html}
-
-Automation
-
-Workflow
-
-AI Coding
-
-Productivity
-
-</td>
-
-</tr>
-
-</table>
-
-✦ Building
-
-::: {align="center"}
-
-🤖 Agent Platform
+◈ Agent Platform
 
 User
- |
+ ↓
 Agent
- |
+ ↓
+Planner
+ ↓
 Tools
- |
+ ↓
 Memory
- |
+ ↓
 Action
+
+Status:
 
 BUILDING
 
-🧠 Knowledge Intelligence
+◈ Knowledge Intelligence
 
 Capture
-  ↓
+ ↓
+Index
+ ↓
 Retrieve
-  ↓
+ ↓
 Reason
-  ↓
-Apply
+ ↓
+Create
+
+Status:
 
 RESEARCH
 
-🎬 Multimodal AI
+◈ Multimodal Intelligence
 
 Text
- +
+  +
 Image
- +
+  +
 Video
- +
+  +
 Data
 
-EXPERIMENT:::
+Status:
 
-✦ Technology Universe
+EXPERIMENT
 
-::: {align="center"}<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,linux,git,github,vercel,cloudflare&perline=6" />{=html}:::
+🧩 Technology Modules
+
+::: {align="center"}<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,linux,git,github,vercel,cloudflare&perline=4" />{=html}:::
+
+AI Core
+
+LLM
+├── Agent Architecture
+├── RAG
+├── LangGraph
+├── MCP
+├── Tool Calling
+└── Multimodal Models
+
+Full Stack
+
+Frontend
+├── React
+├── Next.js
+└── Tailwind
+
+Backend
+├── FastAPI
+├── Node.js
+└── APIs
+
+Infrastructure
+├── Docker
+├── Cloud
+└── CI/CD
+
+🔄 Builder Engine
+
+::: {align="center"}◉ DISCOVER
+
+             ↓
+
+        ◉ DESIGN
+
+             ↓
+
+        ◉ BUILD
+
+             ↓
+
+        ◉ TEST
+
+             ↓
+
+        ◉ SHIP
+
+             ↓
+
+        ◉ EVOLVE
+
+:::
+
+📡 LIVE ACTIVITY
+
+::: {align="center"}<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dav1dWang&theme=react-dark&hide_border=true&area=true&animate=true" />{=html}
 
 <br/>{=html}
 
-<table>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />{=html}:::
 
-<tr>
+🌌 Roadmap
 
-<td>
+2026
 
-AI
+AI Agents
+      ↓
+AI Full Stack
+      ↓
+Open Source
+      ↓
+Independent Products
+      ↓
+AI Company
 
-LLM
-RAG
-Agents
-LangGraph
-MCP
-Tool Calling
-Multimodal AI
-
-</td>
-
-<td>
-
-Engineering
-
-FastAPI
-Node.js
-React
-Next.js
-Docker
-Cloud
-
-</td>
-
-</tr>
-
-</table>
-
-✦ Builder Loop
-
-::: {align="center"}◉ Explore
-
-           ↓
-
-        ◉ Design
-
-           ↓
-
-        ◉ Build
-
-           ↓
-
-        ◉ Test
-
-           ↓
-
-        ◉ Ship
-
-           ↓
-
-        ◉ Repeat
-
-:::
-
-✦ GitHub Activity
-
-::: {align="center"}<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dav1dWang&theme=react-dark&hide_border=true&area=true" />{=html}:::
-
-✦ Contribution Animation
-
-::: {align="center"}<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />{=html}:::
-
-✦ Roadmap
-
-::: {align="center"}2026
-
-     AI Agents
-          |
-          v
-     AI Full Stack
-          |
-          v
-     Open Source
-          |
-          v
- Independent Products
-          |
-          v
-     AI Company
-
-:::
-
-::: {align="center"}<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&width=500&lines=Build+Systems;Create+Products;Explore+The+Future" />{=html}
+::: {align="center"}<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&width=600&lines=Build+Systems;Create+Products;Explore+The+Future" />{=html}
 
 <br/>{=html}
 
