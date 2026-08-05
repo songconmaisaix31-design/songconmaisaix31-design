@@ -1,183 +1,95 @@
-<h1 align="center">
-
-Hi 👋 I'm Dav1d Wang
-
-</h1>
-
-<h3 align="center">
+Dav1d Wang
 
 AI Native Full Stack Developer
 
-</h3>
+I build intelligent systems, AI agents, and products for the nextgeneration of software.
 
-<p align="center">
+Currently Building
 
-Building AI Agents · Full Stack Applications · Future Products
+🤖 Agent Systems
 
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI+Native+Developer;Building+Agentic+Systems;Learning+by+Building;Turning+Ideas+into+Products" />{=html}
-
-</p>
-
-🧑‍💻 About Me
-
-I am an AI Native Full Stack Developer exploring how softwaredevelopment evolves in the AI era.
-
-I started from a non-CS background and am building my engineeringcapability through:
-
-building real AI applications
-
-experimenting with autonomous agents
-
-participating in hackathons
-
-creating products from ideas
-
-My current mission:
-
-Build intelligent systems that amplify human creativity.
-
-🚀 What I'm Building
-
-🤖 AI Agent Systems
-
-Exploring:
-
-Multi-agent collaboration
-
-Agent orchestration
-
-LLM application architecture
-
-AI workflow automation
+Exploring autonomous workflows, multi-agent collaboration, andLLM-powered applications.
 
 🌐 AI Full Stack Applications
 
-Building complete AI products:
+Building complete AI products from idea to deployment:
 
 Frontend
     ↓
-Backend API
+Backend
     ↓
 AI Pipeline
     ↓
-Data & Knowledge
+Data / Knowledge
     ↓
-Deployment
+Production
 
-🏆 Hackathon & Product Experiments
+🚀 Independent Builder
 
-Rapidly prototyping ideas and turning concepts into working products.
+Learning through building, experimenting, and shipping.
 
-🛠 Tech Stack
+Selected Projects
+
+Most projects are currently private while being actively developed.
+
+🤖 Agent Platform
+
+Multi-agent system for intelligent workflows.
+
+Focus: - Agent orchestration - Tool usage - AI automation
+
+🧠 Career Wiki Agent
+
+AI-powered personal knowledge system.
+
+Focus: - Knowledge management - Retrieval systems - Personalproductivity
+
+🎬 Video Intelligence
+
+AI system for understanding and transforming video content.
+
+Focus: - Video analysis - Multimodal AI - Content intelligence
+
+🧩 Developer Tools
+
+Experiments around AI-assisted software development.
+
+Focus: - Developer productivity - Automation - AI workflows
+
+Tools I Use
 
 Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript" />{=html}
-
-</p>
+Python · TypeScript · JavaScript
 
 AI Engineering
 
-LLM
-RAG
-AI Agents
-LangGraph
-OpenAI API
-Prompt Engineering
-AI Workflow Design
-
-Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />{=html}
-
-</p>
+LLM · RAG · AI Agents · LangGraph · OpenAI API
 
 Backend
 
-<p>
+FastAPI · Node.js
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />{=html}
+Frontend
 
-</p>
+React · Next.js · Tailwind CSS
 
 Infrastructure
 
-<p>
+Docker · Git · Linux · Vercel · Cloudflare
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,cloudflare" />{=html}
+Philosophy
 
-</p>
+The future belongs to builders who can collaborate with intelligentmachines.
 
-📦 Featured Projects
+Build.
 
-Private projects are currently under development. Public releasescoming soon.
+Experiment.
 
-Project                             Description
+Ship.
 
-🤖 Agent Platform                   Multi-agent orchestration andintelligent workflows
+Repeat.
 
-🧠 Knowledge Agent                  Personal knowledge managementpowered by AI
+Contact
 
-🎬 Video Intelligence               AI-powered video understandingsystem
-
-🧬 AI Native Developer Journey
-
-2026
-
-AI Agents
-    |
-    ├── Agent Architecture
-    ├── LLM Applications
-    ├── Full Stack Development
-    ├── Open Source
-    └── Entrepreneurship
-
-💡 Engineering Philosophy
-
-Build first. Learn faster. Iterate continuously.
-
-I believe the future belongs to developers who can combine:
-
-engineering ability
-
-AI understanding
-
-product thinking
-
-The role of developers is evolving from writing code to designingintelligent systems.
-
-🎯 2026 Goals
-
-🚀 Build AI-native products
-
-🏆 Participate in AI hackathons
-
-🌱 Contribute to open source
-
-💡 Explore independent entrepreneurship
-
-📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dav1dWang&show_icons=true&theme=tokyonight" />{=html}
-
-</p>
-
-🌎 Connect
-
-Coming soon...
-
-<p align="center">
-
-<i>{=html}Building the future with AI.</i>{=html}
-
-</p>
+Coming soon.
