@@ -1,110 +1,51 @@
-<img src="https://raw.githubusercontent.com/Dav1dWang/Dav1dWang/main/assets/banner.svg" alt="DAV1D AI SYSTEMS LAB" width="100%">{=html}
+:: {align="center"}
 
-<br>{=html}
+DAV1D.WANG
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Native+Full+Stack+Developer;Agent+Systems+Builder;AI+Product+Explorer;Research+%7C+Build+%7C+Ship">{=html}:::
+AI Native Full Stack Developer
 
-DAV1D AI SYSTEMS LAB
+Building AI Agents · AI Applications · Intelligent Systems
 
-Building intelligent software systems for the AI era.
+:::
 
-I explore the intersection of:
+AI SYSTEMS LAB
 
-Artificial Intelligence
-          +
-Software Engineering
-          +
-Product Development
+Exploring how software evolves in the age of intelligent agents.
 
-My goal is to create systems where humans and AI agents collaborate.
+Human Intent
 
-SYSTEM OVERVIEW
+      ↓
 
-┌─────────────────────────────────┐
-│          DAV1D AI LAB           │
-├─────────────────────────────────┤
-│                                 │
-│  Agent Runtime        ACTIVE     │
-│  LLM Engineering      ACTIVE     │
-│  Product Experiments  RUNNING   │
-│  Open Source          BUILDING  │
-│                                 │
-└─────────────────────────────────┘
+AI Agent
 
-CORE DIRECTIONS
+      ↓
 
-Agent Engineering
+Tools + Memory + Knowledge
 
-Building systems around:
+      ↓
 
-Intent
-  ↓
-Planning
-  ↓
-Tool Usage
-  ↓
-Memory
-  ↓
-Execution
-  ↓
-Feedback
+Intelligent Systems
 
-Exploring:
+Current Mission
 
-Agent architectures
+Domain              Focus
 
-Multi-agent collaboration
+Agent Engineering   Planning · Tools · Memory · Multi-AgentAI Applications     LLM · RAG · Multimodal AIDeveloper Tools     Automation · AI Coding WorkflowProduct Building    Prototype → Validate → Ship
 
-Tool calling
-
-AI workflows
-
-AI Applications
-
-Building complete intelligent products:
-
-Interface
-    ↓
-Application Logic
-    ↓
-Agent Layer
-    ↓
-Models
-    ↓
-Data
-    ↓
-Infrastructure
-
-Developer Experience
-
-Exploring how AI changes software creation:
-
-Human Developer
-       +
-AI Copilot
-       +
-Autonomous Agents
-       =
-New Development Workflow
-
-SELECTED EXPERIMENTS
+Building
 
 Agent Platform
 
-AI agent infrastructure experiments.
-
-Architecture:
-
 User
- |
-Agent
- |
+ ↓
+Agent Runtime
+ ↓
 Planner
- |
+ ↓
 Tools
- |
+ ↓
 Memory
- |
+ ↓
 Action
 
 Status:
@@ -113,18 +54,14 @@ BUILDING
 
 Knowledge Intelligence
 
-Personal AI knowledge infrastructure.
-
-Pipeline:
-
 Capture
-  ↓
-Process
-  ↓
+ ↓
+Index
+ ↓
 Retrieve
-  ↓
+ ↓
 Reason
-  ↓
+ ↓
 Create
 
 Status:
@@ -133,24 +70,25 @@ RESEARCH
 
 Multimodal Intelligence
 
-Exploring AI systems across:
-
 Text
++
 Image
++
 Video
-Structured Data
++
+Data
 
 Status:
 
 EXPERIMENT
 
-TECHNOLOGY MATRIX
+Technology Stack
 
-::: {align="center"}<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,linux,git,github,vercel,cloudflare&perline=6">{=html}:::
+::: {align="center"}:::
 
 AI Engineering
 
-LLM Applications
+LLM
 ├── Agent Architecture
 ├── RAG
 ├── LangGraph
@@ -158,77 +96,42 @@ LLM Applications
 ├── Tool Calling
 └── Multimodal AI
 
-Full Stack
+Builder Loop
 
-Frontend
-├── React
-├── Next.js
-└── Tailwind
+Research
+   ↓
+Prototype
+   ↓
+Build
+   ↓
+Test
+   ↓
+Ship
+   ↓
+Iterate
 
-Backend
-├── FastAPI
-├── Node.js
-└── API Design
+GitHub Activity
 
-Infrastructure
-├── Docker
-├── Cloud
-└── CI/CD
+::: {align="center"}<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dav1dWang&theme=react-dark&hide_border=true">{=html}:::
 
-BUILD ENGINE
+Contribution Snake
 
-          IDEA
+::: {align="center"}<img src="https://raw.githubusercontent.com/Dav1dWang/Dav1dWang/output/github-contribution-grid-snake.svg">{=html}:::
 
-           ↓
+GitHub Stats
 
-       RESEARCH
+::: {align="center"}<img src="https://github-readme-stats.vercel.app/api?username=Dav1dWang&show_icons=true&theme=tokyonight">{=html}:::
 
-           ↓
-
-       PROTOTYPE
-
-           ↓
-
-        BUILD
-
-           ↓
-
-         SHIP
-
-           ↓
-
-       ITERATE
-
-ENGINEERING BELIEF
+Philosophy
 
 Build systems, not demos.
 
-The future developer is not only someone who writes code.
+The future developer combines:
 
-The future developer designs:
-
-Systems
+Engineering
 +
-Agents
+AI Understanding
 +
-Products
+Product Thinking
 
-ROADMAP
-
-2026
-
-AI Agents
-    ↓
-AI Full Stack
-    ↓
-Open Source
-    ↓
-Independent Products
-    ↓
-AI Company
-
-::: {align="center"}<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dav1dWang&theme=react-dark&hide_border=true">{=html}
-
-<br>{=html}
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&center=true&width=500&lines=Build+Intelligent+Systems;Create+AI+Products;Explore+The+Future">{=html}
+::: {align="center"}:::
