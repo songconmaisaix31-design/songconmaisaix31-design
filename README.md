@@ -1,42 +1,30 @@
-:: {align="center"}<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=DAV1D.WANG&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />{=html}
+::: {align="center"}
 
-<br/>{=html}
-
-AI SYSTEMS LAB
+DAV1D.WANG
 
 AI Native Full Stack Developer
 
-Building agentic systems, AI-native applications and intelligent tools.
+Building agent systems, AI applications, and developer tools.
 
 <br/>{=html}
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Building+AI+Agents;Designing+Intelligent+Systems;Exploring+Human-AI+Collaboration;From+Ideas+to+Products" />{=html}:::
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=AI+Agent+Builder;Full+Stack+AI+Engineer;Building+in+Public;Turning+Ideas+into+Systems" />{=html}:::
 
-◇ Vision
+About
 
-Software is evolving.
+I am an AI Native Full Stack Developer exploring how software is createdin the age of intelligent agents.
 
-From:
+My focus:
 
-Human writes code
-        ↓
-AI assists development
-        ↓
-AI agents build, operate and improve systems
+AI Agents
+    +
+Full Stack Engineering
+    +
+Product Building
 
-I am exploring how developers can build in this new era.
+I believe the next generation of software will be built by developerswho can combine engineering, AI, and product thinking.
 
-My mission:
-
-Build intelligent systems that amplify human creativity.
-
-◇ Current Focus
-
-::: {align="center"}Area              Exploring
-
-Agent Systems     Planning · Tools · Memory · CollaborationAI Applications   LLM Apps · RAG · Multimodal AIDeveloper Tools   AI-assisted Engineering WorkflowsProducts          Prototype → Validate → Ship:::
-
-◇ Selected Experiments
+Currently Building
 
 <table>
 
@@ -44,48 +32,74 @@ Agent Systems     Planning · Tools · Memory · CollaborationAI Applications   
 
 <td width="50%">
 
-Agent Runtime
+Agent Systems
 
-Exploring architectures for autonomous AI workflows.
+Building intelligent workflows with:
 
-Agents
+Planning
+
+Tool calling
+
+Memory
+
+Multi-agent collaboration
+
+</td>
+
+<td width="50%">
+
+AI Applications
+
+Creating complete AI products:
+
+Frontend
+
+Backend
+
+Models
+
+Data
+
+Deployment
+
+</td>
+
+</tr>
+
+</table>
+
+Selected Work
+
+Agent Platform
+
+AI agent infrastructure experiments.
+
+Runtime
 Tools
 Memory
-Planning
+Reasoning
 Execution
 
 Status:
 
 BUILDING
 
-</td>
+Knowledge System
 
-<td width="50%">
+Personal AI knowledge infrastructure.
 
-Knowledge Infrastructure
-
-Personal AI knowledge systems.
-
-Retrieval
-Context
-Memory
-Reasoning
+Capture
+Retrieve
+Understand
+Apply
 
 Status:
 
 RESEARCH
 
-</td>
+Multimodal Intelligence
 
-</tr>
-
-<tr>
-
-<td width="50%">
-
-Multimodal AI
-
-Systems that understand:
+Exploring AI systems across:
 
 Text
 Image
@@ -96,46 +110,23 @@ Status:
 
 EXPERIMENT
 
-</td>
+Technology
 
-<td width="50%">
+::: {align="center"}<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,linux,git,github,vercel&perline=6"/>{=html}:::
 
-AI Developer Tools
+AI Stack
 
-Improving software creation with AI.
-
-Automation
-Agents
-Workflows
-Productivity
-
-Status:
-
-BUILDING
-
-</td>
-
-</tr>
-
-</table>
-
-◇ Technology
-
-::: {align="center"}<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,linux,git,github,vercel,cloudflare&perline=6" />{=html}:::
-
-AI Engineering
-
-LLM
-├── Agent Architecture
+LLM Applications
+├── Agents
 ├── RAG
 ├── LangGraph
 ├── MCP
 ├── Tool Calling
 └── Multimodal AI
 
-◇ Build Philosophy
+Development Loop
 
-::: {align="center"}Research
+        Research
 
            ↓
 
@@ -143,27 +134,31 @@ LLM
 
            ↓
 
-        Build
+         Build
 
            ↓
 
-         Ship
+          Ship
 
            ↓
 
-       Iterate
+        Improve
 
-:::
+Philosophy
 
-I believe future engineers will combine:
+Build systems, not demos.
 
-Engineering
-+
-Product Thinking
-+
-Artificial Intelligence
+The role of developers is changing.
 
-◇ Roadmap
+From:
+
+Writing code
+
+to:
+
+Designing intelligent systems
+
+Roadmap
 
 2026
 
@@ -174,15 +169,5 @@ AI Full Stack
 Open Source
     |
 Independent Products
-    |
-AI Company
 
-◇ GitHub Activity
-
-::: {align="center"}<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dav1dWang&theme=github-dark&hide_border=true" />{=html}:::
-
-◇ Connect
-
-Building in public soon.
-
-::: {align="center"}<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer" />{=html}:::
+::: {align="center"}Building the future with AI.:::
