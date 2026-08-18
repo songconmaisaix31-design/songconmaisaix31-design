@@ -2,7 +2,7 @@
 
 # DaV1d W
 
-`AI Application Builder` · `Workflow Automation` · `Quant Research Operations`
+`AI Application Builder` · `Workflow Automation` ·
 
 **Building useful, observable systems with AI.**<br>**用 AI 构建真正有用、可观察的系统。**
 
