@@ -2,7 +2,7 @@
 
 # DaV1d W
 
-`AI Application Builder` · `Workflow Automation` ·
+`AI Application Builder` 
 
 **Building useful, observable systems with AI.**<br>**个人主页：https://davidwang.space/。**
 
