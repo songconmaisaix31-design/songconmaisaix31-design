@@ -1,43 +1,41 @@
-# DaV1d W
+# David Wang · DaV1d&nbsp;W
 
-**AI 原生产品工程师 / AI-native product engineer**
+**AI 原生产品工程师，关注多 Agent 协作与开发工具。**
 
-我把产品定义、交互设计与可验证的软件实现连接起来，专注于务实、可解释的 AI 产品。
+Building AI-native products. Exploring how independent agents work together.
 
-I connect product definition, interaction design, and verifiable software delivery, with a focus on practical and explainable AI products.
+我喜欢把想法做成可以体验的作品。最近，我把主要精力放在一个问题上：怎样让多个独立 Agent 不只是同时工作，而是在边界清楚的情况下，共同交付可以检查的结果？
 
-## 代表项目 / Selected work
+## 现在在做
 
-- **[We Remember](https://github.com/songconmaisaix31-design/we-remember)**
-  家庭协作原型；由团队与多个 AI 系统共同发散，我主要负责 UI、硬件、代码实现与部分路演，另一位团队成员主要负责产品工作。
-  A family-coordination prototype shaped by a team with multiple AI systems; I mainly contributed UI, hardware, implementation, and part of the pitch, while another teammate primarily led product work.
+**[Agent-Kernel](https://github.com/songconmaisaix31-design/agent-kernel-cli)** 是我围绕执行与验证开展的工程探索。我关注任务怎样交接、工作边界怎样落实，以及如何判断一次执行真正完成。
 
-- **[OpenDashboard-H2 / 氢哨](https://github.com/songconmaisaix31-design/OpenDashboard-H2)**
-  浦发・IGNITE 未来能源黑客松项目；当前已冻结，最终结果待公布至 2026-09-10。
-  A project for the SPD Bank · IGNITE Future Energy Hackathon; currently frozen, with the final result pending until 2026-09-10.
+当前主入口是独立的 Windows 单任务 CLI 原型，已有普通程序的启动、状态查询、停止与结果记录。Codex 只读调用已有接入代码，真实任务的成功验收仍待完成；多 Agent 协作契约与协议是持续探索的方向。
 
-- **[Tongpin / 同频](https://github.com/songconmaisaix31-design/tongpin-real-tags)**
-  纯爱战神黑客松全场第二；围绕真实行为标签、匿名匹配与渐进式身份解锁的作品集项目。
-  Placed second overall at the Pure Love Warrior Hackathon; a portfolio project centered on real-behavior tags, anonymous matching, and progressive identity reveal.
+此前基于 [stablyai/orca](https://github.com/stablyai/orca) 的 [Orca-Kernel 实验](https://github.com/songconmaisaix31-design/orca-kernel/tree/kernel/v01-managed-dispatch)，探索了任务派发、资源归属与验收约束。这些实验与新 CLI 分属不同实现。
 
-- **[OpenDashboard](https://github.com/songconmaisaix31-design/OpenDashboard)**
-  实验性的本地 AI 控制台，也是氢哨的技术底盘；目前处于实验室维护状态。
-  An experimental local AI console and the technical foundation for OpenDashboard-H2; currently maintained as a lab project.
+## 更远的方向
 
-## 工程工具箱 / Engineering toolkit
+我把更长期的方向叫作「共治」：人们带着自己已有的 Agent 加入在线网络，分享经验，发布自己或 Agent 做不到的需求，由其他具有相应能力的 Agent 提供帮助。目前这是长期探索。我希望先从具体任务中摸清协作契约，再通过 Agent-Kernel 验证执行与交接，逐步走向开放的在线协作。
 
-Next.js、React、TypeScript；Python、FastAPI；数据契约；Docker、WSL；工作流自动化。
+## 精选作品
 
-Next.js, React, TypeScript; Python, FastAPI; data contracts; Docker, WSL; workflow automation.
+- **[同频](https://github.com/songconmaisaix31-design/tongpin-real-tags)** · 团队比赛原型：以行为标签、匿名匹配和渐进身份解锁探索人与人的连接，获纯爱战神黑客松全场第二。我参与提出方向，负责主体前后端、整合与演示；第三方数据使用 Mock。
 
-## 协作 / Collaboration
+- **[We Remember / 都记得](https://github.com/songconmaisaix31-design/we-remember)** · 团队产品原型：让家庭日程与照护责任有明确的接手确认。方向由团队共同构思，另一位成员主要负责产品；我主要负责 UI、硬件、代码实现与部分路演。
 
-我曾为 **Blitz Monad** 提供前端协作贡献；该项目是团队成果，并非个人独立作品。
+- **[oil-agent](https://github.com/songconmaisaix31-design/oil-agent/tree/songconmaisaix31-design/oil-v01-i)** · 开发分支／实验原型：探索成品油资讯监测、证据核对与移动端提醒，将消息判断和提醒回执串成可检查的流程。已有模拟输入的集成测试，真实预警效果仍待验证。
 
-I contributed frontend work to **Blitz Monad** as part of a collaboration; it is a team effort, not a solely owned project.
+- **[氢哨 / OpenDashboard-H2](https://github.com/songconmaisaix31-design/OpenDashboard-H2)** · 团队比赛作品：面向绿氢 EMS 功率协调异常的诊断与运检助手，进入浦发・IGNITE 未来能源黑客松初赛 Top 20。我完成初赛大部分实现、全量数据导入及部分平台整合；朋友推进复赛算法与现场工作。
 
-## 原则 / Principles
+- **[OpenDashboard](https://github.com/songconmaisaix31-design/OpenDashboard)** · 早期控制台实验：探索本地服务观测、诊断与人工确认流程，沉淀静态插件和数据契约实践；当前用固定数据演示，恢复操作为模拟。
 
-清楚区分原型、Mock、实验能力与已验证功能，并如实说明项目状态和贡献边界。
+## 我怎样工作
 
-Clearly separate prototypes, mocks, experiments, and verified functionality, while stating project status and contribution boundaries accurately.
+从具体问题出发，把产品定义、交互设计与工程实现连起来。我使用 AI 和多 Agent 辅助研究、开发与检查，自己负责需求判断、任务拆解、集成和验收；通过实际运行与反馈决定下一步。
+
+常用技术：React、TypeScript、Node.js；Python、FastAPI。
+
+## 交流与合作
+
+欢迎带着真实任务交流多 Agent 协作、开发者工具和有具体场景的 AI 产品。可以试用早期工具，在 [Agent-Kernel Issues](https://github.com/songconmaisaix31-design/agent-kernel-cli/issues) 分享任务交接、边界冲突或结果难以验证的问题，也欢迎在对应项目中反馈体验。
