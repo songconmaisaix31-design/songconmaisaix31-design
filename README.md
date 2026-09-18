@@ -4,7 +4,7 @@
 
 Building AI-native products. Exploring how independent agents work together.
 
-我喜欢把想法做成可以体验的作品。最近，我把主要精力放在一个问题上：怎样让多个独立 Agent 不只是同时工作，而是在边界清楚的情况下，共同交付可以检查的结果？
+我喜欢把想法做成可以体验的作品。最近，我把主要精力放在一个问题上：怎样让多个独立 Agent 不只是同时工作，而是在边界清楚的情况下，共同交付可以检查的结果
 
 ## 现在在做
 
