@@ -1,5 +1,9 @@
-# David Wang · DaV1d&nbsp;W
+# David Wang
 
-**AI 原生产品工程师，专注多 Agent 协作与经验复用。**
+围绕 Agent、上下文与协作构建工具，让每次探索留下可复用的代码与经验。
+Building tools for agents, context, and collaboration.
 
-复利复利复利that's all
+[个人网站 · Portfolio](https://davidwang.space)
+
+- [Astrocyte](https://github.com/songconmaisaix31-design/Astrocyte) · 注意力与上下文 / Attention & context
+- [CrewTrace](https://github.com/songconmaisaix31-design/CrewTrace) · Agent 协作记录 / Agent collaboration
