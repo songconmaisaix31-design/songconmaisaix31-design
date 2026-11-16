@@ -83,10 +83,10 @@ Blockchain tools through official SDKs, CLIs, and MCP.
 <td width="50%" valign="top">
 
 ### 🧪 Beyond the Universe · 其他实验
-PayCrew · RealTag · Echo Edge · OpenDashboard — prototypes and research.
-PayCrew · RealTag · Echo Edge · OpenDashboard：更多原型与研究项目。
+PayCrew · RealTag · OpenDashboard — prototypes and research.
+PayCrew · RealTag · OpenDashboard：更多原型与研究项目。
 
-[PayCrew](https://github.com/songconmaisaix31-design/PayCrew) · [RealTag](https://github.com/songconmaisaix31-design/tongpin-real-tags) · [Echo Edge](https://github.com/songconmaisaix31-design/echo-edge-training) · [OpenDashboard](https://github.com/songconmaisaix31-design/OpenDashboard)
+[PayCrew](https://github.com/songconmaisaix31-design/PayCrew) · [RealTag](https://github.com/songconmaisaix31-design/tongpin-real-tags) · [OpenDashboard](https://github.com/songconmaisaix31-design/OpenDashboard)
 
 </td>
 </tr>
@@ -283,7 +283,7 @@ Status docs, fixtures, and acceptance evidence — 状态文档、Fixture 与验
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/songconmaisaix31-design/swarm-anything"><img src="./assets/projects/swarm-anything.svg" width="100%" alt="Swarm Anything" /></a></td>
-<td width="50%"><a href="https://github.com/songconmaisaix31-design/echo-edge-training"><img src="./assets/projects/echo-edge-training.svg" width="100%" alt="Echo Edge Training" /></a></td>
+<td width="50%"><a href="https://github.com/songconmaisaix31-design/tongpin-real-tags"><img src="./assets/projects/tongpin-real-tags.svg" width="100%" alt="RealTag" /></a></td>
 </tr>
 </table>
 
