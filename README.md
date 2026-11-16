@@ -292,7 +292,7 @@ Status docs, fixtures, and acceptance evidence — 状态文档、Fixture 与验
 ## 📊 GitHub Stats · 数据
 
 <div align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=songconmaisaix31-design&theme=tokyonight" alt="Profile details" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=songconmaisaix31-design&theme=tokyonight" alt="GitHub stats" />
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=songconmaisaix31-design&theme=tokyonight" alt="Repos per language" />
   <br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=songconmaisaix31-design&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06b6d4&line=a855f7&point=ffffff&area=true" alt="Activity graph" />
