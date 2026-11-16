@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="430" viewBox="0 0 920 430" font-family="'Fira Code','JetBrains Mono',Consolas,monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c29"/><stop offset="0.5" stop-color="#1a1b3a"/><stop offset="1" stop-color="#0b1a2e"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#22d3ee"/>
+    </marker>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="920" height="430" rx="20" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity="0.035">
+    <path d="M0 70H920M0 140H920M0 210H920M0 280H920M0 350H920"/>
+    <path d="M70 0V430M140 0V430M210 0V430M280 0V430M350 0V430M420 0V430M490 0V430M560 0V430M630 0V430M700 0V430M770 0V430M840 0V430"/>
+  </g>
+
+  <text x="28" y="38" fill="#94a3b8" font-size="12">anything-universe · system map</text>
+  <text x="892" y="38" text-anchor="end" fill="#64748b" font-size="11">concept · 概念图</text>
+
+  <!-- human -->
+  <rect x="56" y="78" width="152" height="54" rx="13" fill="#1e1b4b" stroke="#818cf8"/>
+  <text x="132" y="101" text-anchor="middle" fill="#e0e7ff" font-size="14" font-weight="700">👤 人 / Human</text>
+  <text x="132" y="120" text-anchor="middle" fill="#a5b4fc" font-size="10.5">chat · approve · handoff</text>
+
+  <!-- human -> agent -->
+  <path d="M208 105 H286" fill="none" stroke="#22d3ee" stroke-width="1.6" marker-end="url(#arrow)" stroke-dasharray="5 5">
+    <animate attributeName="stroke-dashoffset" from="10" to="0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <text x="247" y="96" text-anchor="middle" fill="#67e8f9" font-size="10">task</text>
+
+  <!-- agent host -->
+  <rect x="288" y="72" width="332" height="66" rx="13" fill="#0f172a" stroke="#22d3ee"/>
+  <text x="454" y="98" text-anchor="middle" fill="#cffafe" font-size="14" font-weight="700">🧠 Agent 宿主 / Host</text>
+  <text x="454" y="118" text-anchor="middle" fill="#67e8f9" font-size="10.5">Claude Code · Codex · local CLI</text>
+
+  <!-- agent -> MCP -->
+  <path d="M454 138 V174" fill="none" stroke="#22d3ee" stroke-width="1.6" marker-end="url(#arrow)" stroke-dasharray="5 5">
+    <animate attributeName="stroke-dashoffset" from="10" to="0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <text x="465" y="160" fill="#67e8f9" font-size="10">MCP</text>
+
+  <!-- MCP layer -->
+  <rect x="178" y="174" width="564" height="50" rx="13" fill="#111827" stroke="#6366f1" stroke-width="1.4"/>
+  <text x="460" y="196" text-anchor="middle" fill="#e0e7ff" font-size="14" font-weight="700">🔌 MCP 工具层 · Tool Layer</text>
+  <text x="460" y="214" text-anchor="middle" fill="#a5b4fc" font-size="10.5">discover · call · verify</text>
+  <circle cx="186" cy="186" r="3.5" fill="#22d3ee" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- MCP -> products -->
+  <g fill="none" stroke="#06b6d4" stroke-width="1.4" stroke-dasharray="4 5" marker-end="url(#arrow)">
+    <path d="M200 224 V268"><animate attributeName="stroke-dashoffset" from="9" to="0" dur="0.9s" repeatCount="indefinite"/></path>
+    <path d="M460 224 V268"><animate attributeName="stroke-dashoffset" from="9" to="0" dur="0.9s" repeatCount="indefinite"/></path>
+    <path d="M720 224 V268"><animate attributeName="stroke-dashoffset" from="9" to="0" dur="0.9s" repeatCount="indefinite"/></path>
+  </g>
+
+  <!-- products -->
+  <g>
+    <rect x="80" y="268" width="240" height="76" rx="13" fill="#1e1b4b" stroke="#a855f7"/>
+    <text x="200" y="292" text-anchor="middle" fill="#f3e8ff" font-size="13.5" font-weight="700">🐝 Swarm Anything</text>
+    <text x="200" y="311" text-anchor="middle" fill="#d8b4fe" font-size="10.5">roles · handoffs · workers</text>
+    <text x="200" y="329" text-anchor="middle" fill="#fbbf24" font-size="10">SWA v1 · in development</text>
+  </g>
+  <g>
+    <rect x="340" y="268" width="240" height="76" rx="13" fill="#164e63" stroke="#22d3ee"/>
+    <text x="460" y="292" text-anchor="middle" fill="#cffafe" font-size="13.5" font-weight="700">🐳 McPet</text>
+    <text x="460" y="311" text-anchor="middle" fill="#67e8f9" font-size="10.5">agent status · everyday tools</text>
+    <text x="460" y="329" text-anchor="middle" fill="#a5f3fc" font-size="10">v0.1.0 · Windows release</text>
+  </g>
+  <g>
+    <rect x="600" y="268" width="240" height="76" rx="13" fill="#052e16" stroke="#34d399"/>
+    <text x="720" y="292" text-anchor="middle" fill="#d1fae5" font-size="13.5" font-weight="700">⛓️ Blockchain Anything</text>
+    <text x="720" y="311" text-anchor="middle" fill="#6ee7b7" font-size="10.5">152 on-chain tools · MCP gateway</text>
+    <text x="720" y="329" text-anchor="middle" fill="#a7f3d0" font-size="10">CLI · MCP · TS SDK</text>
+  </g>
+
+  <!-- targets -->
+  <g fill="#64748b" font-size="10.5" text-anchor="middle">
+    <text x="200" y="368">→ 本机 Agent 团队 / local agents</text>
+    <text x="460" y="368">→ 桌面 · 本机 / desktop</text>
+    <text x="720" y="368">→ 链上生态 / on-chain</text>
+  </g>
+
+  <text x="460" y="404" text-anchor="middle" fill="#64748b" font-size="11">Anything Universe · Tools for agents. Room for anything.</text>
+</svg>

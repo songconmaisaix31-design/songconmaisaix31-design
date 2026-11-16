@@ -96,6 +96,16 @@ PayCrew · RealTag · Echo Edge · OpenDashboard：更多原型与研究项目�
 
 ## 🏗️ How It Fits · 架构
 
+*人 → 宿主 Agent → MCP 工具层 → Anything Universe 三件工具。Human → host agent → MCP → tools.*
+
+<div align="center">
+  <img src="./assets/universe-map.svg" width="100%" alt="Anything Universe system map: human, host agent, MCP tool layer, three tools" />
+</div>
+
+<br/>
+
+### 🧭 Swarm Anything — 概念图 · concept map
+
 <div align="center">
   <img src="./assets/agent-swarm.svg" width="100%" alt="Swarm Anything concept: agent team topology" />
 </div>
@@ -104,32 +114,15 @@ PayCrew · RealTag · Echo Edge · OpenDashboard：更多原型与研究项目�
 
 <br/>
 
-```mermaid
-flowchart LR
-    H(["👤 人 / Human"]) -->|"聊天 · 审批"| A(["🧠 Agent<br/>Claude Code · Codex · 本机 CLI"])
-    A <-->|"MCP"| M{{"🔌 MCP 工具层<br/>Tool Layer"}}
-    M --> SWA(["🐝 Swarm Anything<br/>组队 · 交接 · Worker"])
-    M --> PET(["🐳 McPet<br/>Agent 状态 · 日常工具"])
-    M --> BCA(["⛓️ Blockchain Anything<br/>152 个链上工具"])
-    SWA --> S[("🗄️ SQLite<br/>任务 DAG · 状态 · 成果")]
-    PET --> D(["🖥️ 桌面 / 本机"])
-    BCA --> C(["🌐 链上生态<br/>官方 SDK · CLI"])
-```
+### ⛓️ Blockchain Anything — 一个网关，三个入口 / one gateway, three entry points
 
-BCA 的三个断点与三条解法 / *How Blockchain Anything seals the three gaps:*
+<div align="center">
+  <img src="./assets/bca-flow.svg" width="100%" alt="Blockchain Anything: one gateway, three entry points" />
+</div>
 
-```mermaid
-flowchart LR
-    A(["🧠 Agent"]) --> F(["🔎 发现 / Discover<br/>capability_search · 152 tools"])
-    F --> C(["🔐 鉴权 / Auth<br/>bca connect · credential refs"])
-    C --> G{"🛑 写入闸门<br/>BCA_ALLOW_WRITES=false"}
-    G -->|"read"| OK(["✅ 结果 / Result"])
-    G -->|"write + submit"| W(["🔏 宿主钱包授权<br/>Host wallet approval"])
-    W --> OK
-```
+<sub>CLI / MCP / TypeScript SDK 共用同一套工具定义与写入闸门。Three entry points, one tool definition and write gate.</sub>
 
 <br/>
-
 ## 🛠️ AI Tech Stack · 技术栈
 
 <table>

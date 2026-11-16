@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="330" viewBox="0 0 920 330" font-family="'Fira Code','JetBrains Mono',Consolas,monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c29"/><stop offset="0.5" stop-color="#1a1b3a"/><stop offset="1" stop-color="#0b1a2e"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#22d3ee"/>
+    </marker>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="920" height="330" rx="20" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity="0.035">
+    <path d="M0 66H920M0 132H920M0 198H920M0 264H920"/>
+    <path d="M70 0V330M140 0V330M210 0V330M280 0V330M350 0V330M420 0V330M490 0V330M560 0V330M630 0V330M700 0V330M770 0V330M840 0V330"/>
+  </g>
+
+  <text x="28" y="36" fill="#94a3b8" font-size="12">blockchain-anything · one gateway, three entry points</text>
+  <text x="892" y="36" text-anchor="end" fill="#64748b" font-size="11">BCA</text>
+
+  <!-- entry points -->
+  <g>
+    <rect x="110" y="66" width="160" height="46" rx="12" fill="#1e1b4b" stroke="#818cf8"/>
+    <text x="190" y="86" text-anchor="middle" fill="#e0e7ff" font-size="13" font-weight="700">🖥 CLI 终端</text>
+    <text x="190" y="102" text-anchor="middle" fill="#a5b4fc" font-size="10">bca find · bca call</text>
+  </g>
+  <g>
+    <rect x="380" y="66" width="160" height="46" rx="12" fill="#164e63" stroke="#22d3ee"/>
+    <text x="460" y="86" text-anchor="middle" fill="#cffafe" font-size="13" font-weight="700">🔌 MCP Agent</text>
+    <text x="460" y="102" text-anchor="middle" fill="#67e8f9" font-size="10">bca setup · bca mcp</text>
+  </g>
+  <g>
+    <rect x="650" y="66" width="160" height="46" rx="12" fill="#052e16" stroke="#34d399"/>
+    <text x="730" y="86" text-anchor="middle" fill="#d1fae5" font-size="13" font-weight="700">📦 TypeScript SDK</text>
+    <text x="730" y="102" text-anchor="middle" fill="#6ee7b7" font-size="10">createToolkit() · invoke()</text>
+  </g>
+
+  <g fill="none" stroke="#06b6d4" stroke-width="1.5" stroke-dasharray="4 5" marker-end="url(#arrow)">
+    <path d="M190 112 V150"><animate attributeName="stroke-dashoffset" from="9" to="0" dur="0.9s" repeatCount="indefinite"/></path>
+    <path d="M460 112 V150"><animate attributeName="stroke-dashoffset" from="9" to="0" dur="0.9s" repeatCount="indefinite"/></path>
+    <path d="M730 112 V150"><animate attributeName="stroke-dashoffset" from="9" to="0" dur="0.9s" repeatCount="indefinite"/></path>
+  </g>
+
+  <!-- gateway band -->
+  <rect x="100" y="150" width="720" height="58" rx="14" fill="#111827" stroke="url(#bar)" stroke-width="1.6"/>
+  <text x="460" y="175" text-anchor="middle" fill="#e0e7ff" font-size="14" font-weight="700">⛓️ BCA · 152 on-chain tools · official SDKs &amp; CLIs</text>
+  <text x="460" y="194" text-anchor="middle" fill="#a5b4fc" font-size="10.5">发现 / discover · 鉴权 / auth · 边界 / boundary</text>
+  <circle cx="112" cy="160" r="3.5" fill="#22d3ee" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="792" y="199" text-anchor="end" fill="#fbbf24" font-size="10">BCA_ALLOW_WRITES=false</text>
+
+  <!-- outcomes -->
+  <g fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="4 5" marker-end="url(#arrow)">
+    <path d="M280 208 V246"><animate attributeName="stroke-dashoffset" from="9" to="0" dur="0.9s" repeatCount="indefinite"/></path>
+    <path d="M640 208 V246"><animate attributeName="stroke-dashoffset" from="9" to="0" dur="0.9s" repeatCount="indefinite"/></path>
+  </g>
+  <text x="292" y="232" fill="#67e8f9" font-size="10">read</text>
+  <text x="652" y="232" fill="#fbbf24" font-size="10">write + submit</text>
+
+  <g>
+    <rect x="200" y="246" width="160" height="44" rx="12" fill="#052e16" stroke="#34d399"/>
+    <text x="280" y="266" text-anchor="middle" fill="#d1fae5" font-size="12.5" font-weight="700">✅ 结果 / Result</text>
+    <text x="280" y="282" text-anchor="middle" fill="#6ee7b7" font-size="10">stable JSON · typed errors</text>
+  </g>
+  <g>
+    <rect x="560" y="246" width="160" height="44" rx="12" fill="#3b0764" stroke="#c084fc"/>
+    <text x="640" y="266" text-anchor="middle" fill="#f3e8ff" font-size="12.5" font-weight="700">🔏 宿主钱包授权</text>
+    <text x="640" y="282" text-anchor="middle" fill="#d8b4fe" font-size="10">host wallet approval</text>
+  </g>
+
+  <text x="460" y="314" text-anchor="middle" fill="#64748b" font-size="11">Blockchain Anything · 面向 Agent 的链上能力网关</text>
+</svg>
