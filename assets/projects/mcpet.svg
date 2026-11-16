@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="152" viewBox="0 0 470 152" role="img" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="469" height="151" rx="14" fill="#0d1117" stroke="#21262d"/>
+  <rect x="0" y="0" width="470" height="4" rx="2" fill="url(#g)"/>
+  <text x="22" y="37" font-size="17" font-weight="700" fill="#58a6ff">McPet</text>
+  <text x="448" y="37" text-anchor="end" font-size="12" fill="#8b949e">desktop · MCP</text>
+  <text x="22" y="65" font-size="12.5" fill="#c9d1d9">MCP desktop companion for agent status and everyday tools.</text>
+  <text x="22" y="87" font-size="12.5" fill="#8b949e">连接 MCP 的桌面伙伴：查看 Agent 状态，使用日常工具。</text>
+  <circle cx="28" cy="119" r="5" fill="#3572A5"/>
+  <text x="40" y="123" font-size="12" fill="#8b949e">Python</text>
+  <text x="448" y="123" text-anchor="end" font-size="11.5" fill="#8b949e">v0.1.0 · Windows release</text>
+</svg>
